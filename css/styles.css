@@ -430,7 +430,7 @@ footer {
 }
 
 .section_7 {
-    background-image: url(/Users/admin/Desktop/Project_1/img/AdobeStock.jpeg);
+    background-image: url(../img/AdobeStock.jpeg);
     width: auto;
     height: 100vh;
     background-position: left top;
